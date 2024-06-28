@@ -1,0 +1,24 @@
+# Carpeta bin generada al compilar
+bin/
+
+# Carpeta obj generada al compilar
+obj/
+
+# Archivos de caché y archivos temporales
+.vscode/
+.vs/
+*.suo
+*.user
+*.bak
+*.cache
+*.log
+*.vsix
+*.sqlite
+*.sqlite3
+*.db
+
+# Carpeta de dependencias NuGet
+packages/
+
+# Carpeta de archivos de respaldo
+Backup*/
