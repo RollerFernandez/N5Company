@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BAfM7s4vWX7vfSucI3zeexYLBgYua3vFsKMwlTVQfhQ=",
+  "Source": "N5.Management.Permissions.Api",
+  "BasePath": "_content/N5.Management.Permissions.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

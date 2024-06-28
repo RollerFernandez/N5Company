@@ -1,0 +1,17 @@
+C:\sources\n5\rh\slnN5Api\src\services\permissions\N5.Management.Permissions.Domain\bin\Debug\net8.0\N5.Management.Permissions.Domain.deps.json
+C:\sources\n5\rh\slnN5Api\src\services\permissions\N5.Management.Permissions.Domain\bin\Debug\net8.0\N5.Management.Permissions.Domain.dll
+C:\sources\n5\rh\slnN5Api\src\services\permissions\N5.Management.Permissions.Domain\bin\Debug\net8.0\N5.Management.Permissions.Domain.pdb
+C:\sources\n5\rh\slnN5Api\src\services\permissions\N5.Management.Permissions.Domain\bin\Debug\net8.0\N5.Management.Commons.dll
+C:\sources\n5\rh\slnN5Api\src\services\permissions\N5.Management.Permissions.Domain\bin\Debug\net8.0\N5.Management.Domain.dll
+C:\sources\n5\rh\slnN5Api\src\services\permissions\N5.Management.Permissions.Domain\bin\Debug\net8.0\N5.Management.Domain.pdb
+C:\sources\n5\rh\slnN5Api\src\services\permissions\N5.Management.Permissions.Domain\bin\Debug\net8.0\N5.Management.Commons.pdb
+C:\sources\n5\rh\slnN5Api\src\services\permissions\N5.Management.Permissions.Domain\obj\Debug\net8.0\N5.Management.Permissions.Domain.csproj.AssemblyReference.cache
+C:\sources\n5\rh\slnN5Api\src\services\permissions\N5.Management.Permissions.Domain\obj\Debug\net8.0\N5.Management.Permissions.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\sources\n5\rh\slnN5Api\src\services\permissions\N5.Management.Permissions.Domain\obj\Debug\net8.0\N5.Management.Permissions.Domain.AssemblyInfoInputs.cache
+C:\sources\n5\rh\slnN5Api\src\services\permissions\N5.Management.Permissions.Domain\obj\Debug\net8.0\N5.Management.Permissions.Domain.AssemblyInfo.cs
+C:\sources\n5\rh\slnN5Api\src\services\permissions\N5.Management.Permissions.Domain\obj\Debug\net8.0\N5.Management.Permissions.Domain.csproj.CoreCompileInputs.cache
+C:\sources\n5\rh\slnN5Api\src\services\permissions\N5.Management.Permissions.Domain\obj\Debug\net8.0\N5.Manag.23F6A493.Up2Date
+C:\sources\n5\rh\slnN5Api\src\services\permissions\N5.Management.Permissions.Domain\obj\Debug\net8.0\N5.Management.Permissions.Domain.dll
+C:\sources\n5\rh\slnN5Api\src\services\permissions\N5.Management.Permissions.Domain\obj\Debug\net8.0\refint\N5.Management.Permissions.Domain.dll
+C:\sources\n5\rh\slnN5Api\src\services\permissions\N5.Management.Permissions.Domain\obj\Debug\net8.0\N5.Management.Permissions.Domain.pdb
+C:\sources\n5\rh\slnN5Api\src\services\permissions\N5.Management.Permissions.Domain\obj\Debug\net8.0\ref\N5.Management.Permissions.Domain.dll

@@ -1,0 +1,5 @@
+2024-06-26 07:20:03.665 -05:00 [WRN] Failed to determine the https port for redirect.
+2024-06-26 07:23:35.942 -05:00 [WRN] Failed to determine the https port for redirect.
+2024-06-26 07:40:53.102 -05:00 [WRN] Failed to determine the https port for redirect.
+2024-06-26 07:41:36.803 -05:00 [INF] Delivered: '6470b743-d534-441a-b269-2cde074970e5 - ' '{"Id":"6470b743-d534-441a-b269-2cde074970e5","OperationName":"{\"EmployeeId\":2,\"PermissionTypeId\":1,\"StartDate\":\"2024-06-26T12:40:37.125Z\",\"EndDate\":\"2024-06-26T12:40:37.125Z\",\"Reason\":\"string\",\"Employee\":null,\"PermissionType\":null,\"Id\":25,\"CreatedBy\":\"CreationUser\",\"CreatedAt\":\"2024-06-26T07:41:05.4380653-05:00\",\"UpdatedBy\":null,\"UpdatedAt\":null,\"Status\":\"A\"}"}' to 'Permissions-topic [[0]] @0' ' Date: 6/26/2024 12:00:00 AM' 
+2024-06-26 07:41:42.873 -05:00 [INF] SUCCESS: {"id":25,"employeeId":2,"permissionTypeId":1,"startDate":"2024-06-26T12:40:37.125Z","endDate":"2024-06-26T12:40:37.125Z","reason":"string","employee":null,"permissionType":null}

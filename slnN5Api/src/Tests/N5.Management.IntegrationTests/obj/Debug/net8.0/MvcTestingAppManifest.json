@@ -1,0 +1,11 @@
+{
+  "N5.Management.Commons, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Commons",
+  "N5.Management.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Domain",
+  "N5.Management.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Infrastructure",
+  "N5.Management.Permissions.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Api",
+  "N5.Management.Permissions.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application",
+  "N5.Management.Permissions.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Domain",
+  "N5.Management.Permissions.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Infrastructure",
+  "N5.Management.SharedKernel.Infrastructure.Elasticsearch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Infrastructure\\Services\\ElasticsearchService\\N5.Management.SharedKernel.Infrastructure.Elasticsearch",
+  "N5.Management.SharedKernel.Infrastructure.Messaging.Kafka, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Infrastructure\\Messaging\\Kafka\\N5.Management.SharedKernel.Infrastructure.Messaging.Kafka"
+}

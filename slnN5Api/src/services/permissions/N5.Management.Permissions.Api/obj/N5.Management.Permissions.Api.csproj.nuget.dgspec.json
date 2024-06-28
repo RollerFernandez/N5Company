@@ -1,0 +1,727 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Api\\N5.Management.Permissions.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Api\\N5.Management.Permissions.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Api\\N5.Management.Permissions.Api.csproj",
+        "projectName": "N5.Management.Permissions.Api",
+        "projectPath": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Api\\N5.Management.Permissions.Api.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj": {
+                "projectPath": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj"
+              },
+              "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Infrastructure\\Messaging\\Kafka\\N5.Management.SharedKernel.Infrastructure.Messaging.Kafka\\N5.Management.SharedKernel.Infrastructure.Messaging.Kafka.csproj": {
+                "projectPath": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Infrastructure\\Messaging\\Kafka\\N5.Management.SharedKernel.Infrastructure.Messaging.Kafka\\N5.Management.SharedKernel.Infrastructure.Messaging.Kafka.csproj"
+              },
+              "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Infrastructure\\Services\\ElasticsearchService\\N5.Management.SharedKernel.Infrastructure.Elasticsearch\\N5.Management.SharedKernel.Infrastructure.Elasticsearch.csproj": {
+                "projectPath": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Infrastructure\\Services\\ElasticsearchService\\N5.Management.SharedKernel.Infrastructure.Elasticsearch\\N5.Management.SharedKernel.Infrastructure.Elasticsearch.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.3.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.20.1, )"
+            },
+            "Serilog.Enrichers.Environment": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj",
+        "projectName": "N5.Management.Permissions.Application",
+        "projectPath": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Domain\\N5.Management.Permissions.Domain.csproj": {
+                "projectPath": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Domain\\N5.Management.Permissions.Domain.csproj"
+              },
+              "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\N5.Management.Permissions.Infrastructure.csproj": {
+                "projectPath": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\N5.Management.Permissions.Infrastructure.csproj"
+              },
+              "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Commons\\N5.Management.Commons.csproj": {
+                "projectPath": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Commons\\N5.Management.Commons.csproj"
+              },
+              "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Infrastructure\\N5.Management.Infrastructure.csproj": {
+                "projectPath": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Infrastructure\\N5.Management.Infrastructure.csproj"
+              },
+              "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Infrastructure\\Messaging\\Kafka\\N5.Management.SharedKernel.Infrastructure.Messaging.Kafka\\N5.Management.SharedKernel.Infrastructure.Messaging.Kafka.csproj": {
+                "projectPath": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Infrastructure\\Messaging\\Kafka\\N5.Management.SharedKernel.Infrastructure.Messaging.Kafka\\N5.Management.SharedKernel.Infrastructure.Messaging.Kafka.csproj"
+              },
+              "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Infrastructure\\Services\\ElasticsearchService\\N5.Management.SharedKernel.Infrastructure.Elasticsearch\\N5.Management.SharedKernel.Infrastructure.Elasticsearch.csproj": {
+                "projectPath": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Infrastructure\\Services\\ElasticsearchService\\N5.Management.SharedKernel.Infrastructure.Elasticsearch\\N5.Management.SharedKernel.Infrastructure.Elasticsearch.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Autofac": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Domain\\N5.Management.Permissions.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Domain\\N5.Management.Permissions.Domain.csproj",
+        "projectName": "N5.Management.Permissions.Domain",
+        "projectPath": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Domain\\N5.Management.Permissions.Domain.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Domain\\N5.Management.Domain.csproj": {
+                "projectPath": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Domain\\N5.Management.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\N5.Management.Permissions.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\N5.Management.Permissions.Infrastructure.csproj",
+        "projectName": "N5.Management.Permissions.Infrastructure",
+        "projectPath": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\N5.Management.Permissions.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Domain\\N5.Management.Permissions.Domain.csproj": {
+                "projectPath": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Domain\\N5.Management.Permissions.Domain.csproj"
+              },
+              "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Infrastructure\\N5.Management.Infrastructure.csproj": {
+                "projectPath": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Infrastructure\\N5.Management.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Commons\\N5.Management.Commons.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Commons\\N5.Management.Commons.csproj",
+        "projectName": "N5.Management.Commons",
+        "projectPath": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Commons\\N5.Management.Commons.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Commons\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Serilog.Settings.Configuration": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Domain\\N5.Management.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Domain\\N5.Management.Domain.csproj",
+        "projectName": "N5.Management.Domain",
+        "projectPath": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Domain\\N5.Management.Domain.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Commons\\N5.Management.Commons.csproj": {
+                "projectPath": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Commons\\N5.Management.Commons.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Infrastructure\\N5.Management.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Infrastructure\\N5.Management.Infrastructure.csproj",
+        "projectName": "N5.Management.Infrastructure",
+        "projectPath": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Infrastructure\\N5.Management.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Commons\\N5.Management.Commons.csproj": {
+                "projectPath": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Commons\\N5.Management.Commons.csproj"
+              },
+              "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Domain\\N5.Management.Domain.csproj": {
+                "projectPath": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Domain\\N5.Management.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Infrastructure\\Messaging\\Kafka\\N5.Management.SharedKernel.Infrastructure.Messaging.Kafka\\N5.Management.SharedKernel.Infrastructure.Messaging.Kafka.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Infrastructure\\Messaging\\Kafka\\N5.Management.SharedKernel.Infrastructure.Messaging.Kafka\\N5.Management.SharedKernel.Infrastructure.Messaging.Kafka.csproj",
+        "projectName": "N5.Management.SharedKernel.Infrastructure.Messaging.Kafka",
+        "projectPath": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Infrastructure\\Messaging\\Kafka\\N5.Management.SharedKernel.Infrastructure.Messaging.Kafka\\N5.Management.SharedKernel.Infrastructure.Messaging.Kafka.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Infrastructure\\Messaging\\Kafka\\N5.Management.SharedKernel.Infrastructure.Messaging.Kafka\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Commons\\N5.Management.Commons.csproj": {
+                "projectPath": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Commons\\N5.Management.Commons.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Confluent.Kafka": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Infrastructure\\Services\\ElasticsearchService\\N5.Management.SharedKernel.Infrastructure.Elasticsearch\\N5.Management.SharedKernel.Infrastructure.Elasticsearch.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Infrastructure\\Services\\ElasticsearchService\\N5.Management.SharedKernel.Infrastructure.Elasticsearch\\N5.Management.SharedKernel.Infrastructure.Elasticsearch.csproj",
+        "projectName": "N5.Management.SharedKernel.Infrastructure.Elasticsearch",
+        "projectPath": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Infrastructure\\Services\\ElasticsearchService\\N5.Management.SharedKernel.Infrastructure.Elasticsearch\\N5.Management.SharedKernel.Infrastructure.Elasticsearch.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Infrastructure\\Services\\ElasticsearchService\\N5.Management.SharedKernel.Infrastructure.Elasticsearch\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "NEST": {
+              "target": "Package",
+              "version": "[7.17.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

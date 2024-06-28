@@ -1,0 +1,6 @@
+@N5.Management.Permissions.Api_HostAddress = http://localhost:5122
+
+GET {{N5.Management.Permissions.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,15 @@
+C:\sources\n5\rh\slnN5Api\src\SharedKernel\Core\N5.Management.Application\bin\Debug\net8.0\N5.Management.Application.deps.json
+C:\sources\n5\rh\slnN5Api\src\SharedKernel\Core\N5.Management.Application\bin\Debug\net8.0\N5.Management.Application.dll
+C:\sources\n5\rh\slnN5Api\src\SharedKernel\Core\N5.Management.Application\bin\Debug\net8.0\N5.Management.Application.pdb
+C:\sources\n5\rh\slnN5Api\src\SharedKernel\Core\N5.Management.Application\bin\Debug\net8.0\N5.Management.Commons.dll
+C:\sources\n5\rh\slnN5Api\src\SharedKernel\Core\N5.Management.Application\bin\Debug\net8.0\N5.Management.Commons.pdb
+C:\sources\n5\rh\slnN5Api\src\SharedKernel\Core\N5.Management.Application\obj\Debug\net8.0\N5.Management.Application.csproj.AssemblyReference.cache
+C:\sources\n5\rh\slnN5Api\src\SharedKernel\Core\N5.Management.Application\obj\Debug\net8.0\N5.Management.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\sources\n5\rh\slnN5Api\src\SharedKernel\Core\N5.Management.Application\obj\Debug\net8.0\N5.Management.Application.AssemblyInfoInputs.cache
+C:\sources\n5\rh\slnN5Api\src\SharedKernel\Core\N5.Management.Application\obj\Debug\net8.0\N5.Management.Application.AssemblyInfo.cs
+C:\sources\n5\rh\slnN5Api\src\SharedKernel\Core\N5.Management.Application\obj\Debug\net8.0\N5.Management.Application.csproj.CoreCompileInputs.cache
+C:\sources\n5\rh\slnN5Api\src\SharedKernel\Core\N5.Management.Application\obj\Debug\net8.0\N5.Manag.8FC5557A.Up2Date
+C:\sources\n5\rh\slnN5Api\src\SharedKernel\Core\N5.Management.Application\obj\Debug\net8.0\N5.Management.Application.dll
+C:\sources\n5\rh\slnN5Api\src\SharedKernel\Core\N5.Management.Application\obj\Debug\net8.0\refint\N5.Management.Application.dll
+C:\sources\n5\rh\slnN5Api\src\SharedKernel\Core\N5.Management.Application\obj\Debug\net8.0\N5.Management.Application.pdb
+C:\sources\n5\rh\slnN5Api\src\SharedKernel\Core\N5.Management.Application\obj\Debug\net8.0\ref\N5.Management.Application.dll
