@@ -9,21 +9,18 @@
             this.context = context;
         }
 
-        public async Task<PermissionEntity> GetByCode(string code)
+        public async Task<PermissionEntity> GetByCode(int code)
         {
             var query = context.PermissionEntity
                 .AsQueryable()
                 .AsNoTracking()
                 .Include(e => e.Employee)
-                .Where(e => e.Employee.Name == code);
+                .Where(e => e.EmployeeId == code);
 
             return await query.FirstOrDefaultAsync();
         }
 
-        //public async Task<PermissionEntity> GetById(int id)
-        //{
-        //    return await context.PermissionEntity.AsQueryable().Where(x => x.Id == id).FirstOrDefaultAsync();
-        //}
+       
 
     }
 }

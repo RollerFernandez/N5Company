@@ -28,8 +28,17 @@ namespace N5.Management.SharedKernel.Infrastructure.Elasticsearch.Implementation
 
         public async Task<bool> IndexDocument<T>(T document, string indexName) where T : class
         {
-            var response = await _client.IndexAsync(document, idx => idx.Index(indexName));
-            return response.IsValid;
+            try
+            {
+                var response = await _client.IndexAsync(document, idx => idx.Index(indexName));
+                return response.IsValid;
+            }
+            catch (Exception ex)
+            {
+
+                throw;
+            }
+            
         }
 
         public async Task<bool> UpdateDocument<T>(T document, string indexName, Expression<Func<T, object>> idField) where T : class

@@ -25,3 +25,4 @@ C:\sources\n5\rh\slnN5Api\src\services\permissions\N5.Management.Permissions.App
 C:\sources\n5\rh\slnN5Api\src\services\permissions\N5.Management.Permissions.Application\obj\Debug\net8.0\refint\N5.Management.Permissions.Application.dll
 C:\sources\n5\rh\slnN5Api\src\services\permissions\N5.Management.Permissions.Application\obj\Debug\net8.0\N5.Management.Permissions.Application.pdb
 C:\sources\n5\rh\slnN5Api\src\services\permissions\N5.Management.Permissions.Application\obj\Debug\net8.0\ref\N5.Management.Permissions.Application.dll
+C:\sources\n5\rh\slnN5Api\src\services\permissions\N5.Management.Permissions.Application\obj\Debug\net8.0\N5.Management.Permissions.Application.sourcelink.json

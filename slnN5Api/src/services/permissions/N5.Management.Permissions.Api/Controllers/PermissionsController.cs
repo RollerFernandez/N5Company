@@ -16,6 +16,14 @@ namespace N5.Management.Permissions.Api.Controllers
             _mediator = mediator;
         }
 
+        [HttpGet()]
+        public async Task<ActionResult> GetListPermission()
+        {
+            var query = new GetListPermissionQuery();
+            var result = await _mediator.Send(query);
+            return Ok(result);
+        }
+
         [HttpGet("{id}")]
         public async Task<ActionResult> GetPermission(int id)
         {

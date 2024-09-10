@@ -3,120 +3,200 @@
   "WorkspaceRootPath": "C:\\sources\\n5\\rh\\slnN5Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B867D17B-2558-4651-A1D8-47E28BD3DEAB}|src\\SharedKernel\\Infrastructure\\Services\\ElasticsearchService\\N5.Management.SharedKernel.Infrastructure.Elasticsearch\\N5.Management.SharedKernel.Infrastructure.Elasticsearch.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\sharedkernel\\infrastructure\\services\\elasticsearchservice\\n5.management.sharedkernel.infrastructure.elasticsearch\\implementations\\elasticsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B867D17B-2558-4651-A1D8-47E28BD3DEAB}|src\\SharedKernel\\Infrastructure\\Services\\ElasticsearchService\\N5.Management.SharedKernel.Infrastructure.Elasticsearch\\N5.Management.SharedKernel.Infrastructure.Elasticsearch.csproj|solutionrelative:src\\sharedkernel\\infrastructure\\services\\elasticsearchservice\\n5.management.sharedkernel.infrastructure.elasticsearch\\implementations\\elasticsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.application\\commands\\handlers\\createpermissioncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.application\\commands\\handlers\\createpermissioncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECA9999A-C995-429F-A078-AEC209BA7E60}|src\\SharedKernel\\Core\\N5.Management.Commons\\N5.Management.Commons.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\sharedkernel\\core\\n5.management.commons\\middleware\\responsemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECA9999A-C995-429F-A078-AEC209BA7E60}|src\\SharedKernel\\Core\\N5.Management.Commons\\N5.Management.Commons.csproj|solutionrelative:src\\sharedkernel\\core\\n5.management.commons\\middleware\\responsemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECA9999A-C995-429F-A078-AEC209BA7E60}|src\\SharedKernel\\Core\\N5.Management.Commons\\N5.Management.Commons.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\sharedkernel\\core\\n5.management.commons\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECA9999A-C995-429F-A078-AEC209BA7E60}|src\\SharedKernel\\Core\\N5.Management.Commons\\N5.Management.Commons.csproj|solutionrelative:src\\sharedkernel\\core\\n5.management.commons\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.application\\mappings\\permissions\\profiles\\permissionprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.application\\mappings\\permissions\\profiles\\permissionprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.application\\queries\\handlers\\getpermissionqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.application\\queries\\handlers\\getpermissionqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22795077-C334-4F51-86D0-513C8E502BD9}|src\\services\\permissions\\N5.Management.Permissions.Api\\N5.Management.Permissions.Api.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22795077-C334-4F51-86D0-513C8E502BD9}|src\\services\\permissions\\N5.Management.Permissions.Api\\N5.Management.Permissions.Api.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A72ED32F-2A07-47C7-BFD4-1948D8BF89E5}|src\\Tests\\N5.Management.UnitTests\\N5.Management.UnitTests.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\tests\\n5.management.unittests\\permissions\\permissionscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A72ED32F-2A07-47C7-BFD4-1948D8BF89E5}|src\\Tests\\N5.Management.UnitTests\\N5.Management.UnitTests.csproj|solutionrelative:src\\tests\\n5.management.unittests\\permissions\\permissionscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C99067B-094F-4497-A592-ECB7B492F902}|src\\services\\permissions\\N5.Management.Permissions.Domain\\N5.Management.Permissions.Domain.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.domain\\models\\employeeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C99067B-094F-4497-A592-ECB7B492F902}|src\\services\\permissions\\N5.Management.Permissions.Domain\\N5.Management.Permissions.Domain.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.domain\\models\\employeeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C99067B-094F-4497-A592-ECB7B492F902}|src\\services\\permissions\\N5.Management.Permissions.Domain\\N5.Management.Permissions.Domain.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.domain\\models\\permissiontypeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C99067B-094F-4497-A592-ECB7B492F902}|src\\services\\permissions\\N5.Management.Permissions.Domain\\N5.Management.Permissions.Domain.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.domain\\models\\permissiontypeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C99067B-094F-4497-A592-ECB7B492F902}|src\\services\\permissions\\N5.Management.Permissions.Domain\\N5.Management.Permissions.Domain.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.domain\\models\\permissionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C99067B-094F-4497-A592-ECB7B492F902}|src\\services\\permissions\\N5.Management.Permissions.Domain\\N5.Management.Permissions.Domain.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.domain\\models\\permissionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{22795077-C334-4F51-86D0-513C8E502BD9}|src\\services\\permissions\\N5.Management.Permissions.Api\\N5.Management.Permissions.Api.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22795077-C334-4F51-86D0-513C8E502BD9}|src\\services\\permissions\\N5.Management.Permissions.Api\\N5.Management.Permissions.Api.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{22795077-C334-4F51-86D0-513C8E502BD9}|src\\services\\permissions\\N5.Management.Permissions.Api\\N5.Management.Permissions.Api.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{22795077-C334-4F51-86D0-513C8E502BD9}|src\\services\\permissions\\N5.Management.Permissions.Api\\N5.Management.Permissions.Api.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22795077-C334-4F51-86D0-513C8E502BD9}|src\\services\\permissions\\N5.Management.Permissions.Api\\N5.Management.Permissions.Api.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{22795077-C334-4F51-86D0-513C8E502BD9}|src\\services\\permissions\\N5.Management.Permissions.Api\\N5.Management.Permissions.Api.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA101F43-3733-4AAB-BE10-1F9333B2291B}|src\\Tests\\N5.Management.IntegrationTests\\N5.Management.IntegrationTests.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\tests\\n5.management.integrationtests\\permissions\\permissionscontrollerintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA101F43-3733-4AAB-BE10-1F9333B2291B}|src\\Tests\\N5.Management.IntegrationTests\\N5.Management.IntegrationTests.csproj|solutionrelative:src\\tests\\n5.management.integrationtests\\permissions\\permissionscontrollerintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.application\\dtos\\permissions\\permissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.application\\dtos\\permissions\\permissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{22795077-C334-4F51-86D0-513C8E502BD9}|src\\services\\permissions\\N5.Management.Permissions.Api\\N5.Management.Permissions.Api.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22795077-C334-4F51-86D0-513C8E502BD9}|src\\services\\permissions\\N5.Management.Permissions.Api\\N5.Management.Permissions.Api.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{22795077-C334-4F51-86D0-513C8E502BD9}|src\\services\\permissions\\N5.Management.Permissions.Api\\N5.Management.Permissions.Api.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.api\\controllers\\permissionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22795077-C334-4F51-86D0-513C8E502BD9}|src\\services\\permissions\\N5.Management.Permissions.Api\\N5.Management.Permissions.Api.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.api\\controllers\\permissionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.application\\commands\\handlers\\updatepermissioncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.application\\commands\\handlers\\updatepermissioncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.application\\commands\\handlers\\deleteemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.application\\commands\\handlers\\deleteemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECA9999A-C995-429F-A078-AEC209BA7E60}|src\\SharedKernel\\Core\\N5.Management.Commons\\N5.Management.Commons.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\sharedkernel\\core\\n5.management.commons\\dtos\\operationmessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECA9999A-C995-429F-A078-AEC209BA7E60}|src\\SharedKernel\\Core\\N5.Management.Commons\\N5.Management.Commons.csproj|solutionrelative:src\\sharedkernel\\core\\n5.management.commons\\dtos\\operationmessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.application\\commands\\definitions\\deleteemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.application\\commands\\definitions\\deleteemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.application\\commands\\definitions\\createpermissioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.application\\commands\\definitions\\createpermissioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.application\\dtos\\employee\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.application\\dtos\\employee\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B867D17B-2558-4651-A1D8-47E28BD3DEAB}|src\\SharedKernel\\Infrastructure\\Services\\ElasticsearchService\\N5.Management.SharedKernel.Infrastructure.Elasticsearch\\N5.Management.SharedKernel.Infrastructure.Elasticsearch.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\sharedkernel\\infrastructure\\services\\elasticsearchservice\\n5.management.sharedkernel.infrastructure.elasticsearch\\interfaces\\ielasticsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B867D17B-2558-4651-A1D8-47E28BD3DEAB}|src\\SharedKernel\\Infrastructure\\Services\\ElasticsearchService\\N5.Management.SharedKernel.Infrastructure.Elasticsearch\\N5.Management.SharedKernel.Infrastructure.Elasticsearch.csproj|solutionrelative:src\\sharedkernel\\infrastructure\\services\\elasticsearchservice\\n5.management.sharedkernel.infrastructure.elasticsearch\\interfaces\\ielasticsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.application\\queries\\handlers\\getlistemployeequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.application\\queries\\handlers\\getlistemployeequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DD2F09E-1500-4068-867B-5D32A2DA23C0}|src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\N5.Management.Permissions.Infrastructure.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.infrastructure\\repository\\interfaces\\ipermissionsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DD2F09E-1500-4068-867B-5D32A2DA23C0}|src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\N5.Management.Permissions.Infrastructure.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.infrastructure\\repository\\interfaces\\ipermissionsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DD2F09E-1500-4068-867B-5D32A2DA23C0}|src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\N5.Management.Permissions.Infrastructure.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.infrastructure\\repository\\implementations\\permissionsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DD2F09E-1500-4068-867B-5D32A2DA23C0}|src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\N5.Management.Permissions.Infrastructure.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.infrastructure\\repository\\implementations\\permissionsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.application\\commands\\handlers\\updateemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.application\\commands\\handlers\\updateemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7EB6CFDF-58DD-4232-94A9-F7D7C4852122}|src\\SharedKernel\\Core\\N5.Management.Infrastructure\\N5.Management.Infrastructure.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\sharedkernel\\core\\n5.management.infrastructure\\repository\\implementations\\data\\base\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EB6CFDF-58DD-4232-94A9-F7D7C4852122}|src\\SharedKernel\\Core\\N5.Management.Infrastructure\\N5.Management.Infrastructure.csproj|solutionrelative:src\\sharedkernel\\core\\n5.management.infrastructure\\repository\\implementations\\data\\base\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.application\\commands\\definitions\\updatepermissioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.application\\commands\\definitions\\updatepermissioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ECA9999A-C995-429F-A078-AEC209BA7E60}|src\\SharedKernel\\Core\\N5.Management.Commons\\N5.Management.Commons.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\sharedkernel\\core\\n5.management.commons\\middleware\\responsemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA9999A-C995-429F-A078-AEC209BA7E60}|src\\SharedKernel\\Core\\N5.Management.Commons\\N5.Management.Commons.csproj|solutionrelative:src\\sharedkernel\\core\\n5.management.commons\\middleware\\responsemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.application\\queries\\definitions\\getpermissionquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.application\\queries\\definitions\\getpermissionquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.application\\dtos\\permissions\\permissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.application\\dtos\\permissions\\permissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55B3DE26-5CC8-43B8-AFEF-7B4BC687E848}|src\\SharedKernel\\Core\\N5.Management.Domain\\N5.Management.Domain.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\sharedkernel\\core\\n5.management.domain\\commons\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55B3DE26-5CC8-43B8-AFEF-7B4BC687E848}|src\\SharedKernel\\Core\\N5.Management.Domain\\N5.Management.Domain.csproj|solutionrelative:src\\sharedkernel\\core\\n5.management.domain\\commons\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.application\\commands\\handlers\\createemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.application\\commands\\handlers\\createemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DD2F09E-1500-4068-867B-5D32A2DA23C0}|src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\N5.Management.Permissions.Infrastructure.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.infrastructure\\configurations\\permissiontypesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DD2F09E-1500-4068-867B-5D32A2DA23C0}|src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\N5.Management.Permissions.Infrastructure.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.infrastructure\\configurations\\permissiontypesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.application\\commands\\definitions\\createemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.application\\commands\\definitions\\createemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.application\\mappings\\employee\\profiles\\employeeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.application\\mappings\\employee\\profiles\\employeeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22795077-C334-4F51-86D0-513C8E502BD9}|src\\services\\permissions\\N5.Management.Permissions.Api\\N5.Management.Permissions.Api.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.api\\controllers\\permissiontypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22795077-C334-4F51-86D0-513C8E502BD9}|src\\services\\permissions\\N5.Management.Permissions.Api\\N5.Management.Permissions.Api.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.api\\controllers\\permissiontypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.application\\queries\\handlers\\getlistpermissiontypequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.application\\queries\\handlers\\getlistpermissiontypequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.application\\dtos\\permissiontype\\permissiontypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.application\\dtos\\permissiontype\\permissiontypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.application\\queries\\definitions\\getlistpermissiontypequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.application\\queries\\definitions\\getlistpermissiontypequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.application\\queries\\handlers\\getlistpermissionqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.application\\queries\\handlers\\getlistpermissionqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD2F09E-1500-4068-867B-5D32A2DA23C0}|src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\N5.Management.Permissions.Infrastructure.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.infrastructure\\repository\\implementations\\permissionsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD2F09E-1500-4068-867B-5D32A2DA23C0}|src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\N5.Management.Permissions.Infrastructure.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.infrastructure\\repository\\implementations\\permissionsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD2F09E-1500-4068-867B-5D32A2DA23C0}|src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\N5.Management.Permissions.Infrastructure.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.infrastructure\\repository\\interfaces\\ipermissionsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD2F09E-1500-4068-867B-5D32A2DA23C0}|src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\N5.Management.Permissions.Infrastructure.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.infrastructure\\repository\\interfaces\\ipermissionsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DD2F09E-1500-4068-867B-5D32A2DA23C0}|src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\N5.Management.Permissions.Infrastructure.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.infrastructure\\configurations\\permissionsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DD2F09E-1500-4068-867B-5D32A2DA23C0}|src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\N5.Management.Permissions.Infrastructure.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.infrastructure\\configurations\\permissionsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.application\\queries\\definitions\\getlistpermissionquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.application\\queries\\definitions\\getlistpermissionquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.application\\queries\\definitions\\getlistemployeequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.application\\queries\\definitions\\getlistemployeequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.application\\queries\\definitions\\getemployeequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.application\\queries\\definitions\\getemployeequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.application\\cores\\applicationautofacmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.application\\cores\\applicationautofacmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22795077-C334-4F51-86D0-513C8E502BD9}|src\\services\\permissions\\N5.Management.Permissions.Api\\N5.Management.Permissions.Api.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22795077-C334-4F51-86D0-513C8E502BD9}|src\\services\\permissions\\N5.Management.Permissions.Api\\N5.Management.Permissions.Api.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.application\\queries\\handlers\\getpermissionqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.application\\queries\\handlers\\getpermissionqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.application\\cores\\addapplicationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.application\\cores\\addapplicationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.application\\queries\\handlers\\getemployeequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.application\\queries\\handlers\\getemployeequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.application\\interfaces\\ipermissionapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.application\\interfaces\\ipermissionapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.application\\dtos\\employee\\employeefilters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.application\\dtos\\employee\\employeefilters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55B3DE26-5CC8-43B8-AFEF-7B4BC687E848}|src\\SharedKernel\\Core\\N5.Management.Domain\\N5.Management.Domain.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\sharedkernel\\core\\n5.management.domain\\commons\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55B3DE26-5CC8-43B8-AFEF-7B4BC687E848}|src\\SharedKernel\\Core\\N5.Management.Domain\\N5.Management.Domain.csproj|solutionrelative:src\\sharedkernel\\core\\n5.management.domain\\commons\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB6CFDF-58DD-4232-94A9-F7D7C4852122}|src\\SharedKernel\\Core\\N5.Management.Infrastructure\\N5.Management.Infrastructure.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\sharedkernel\\core\\n5.management.infrastructure\\repository\\implementations\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EB6CFDF-58DD-4232-94A9-F7D7C4852122}|src\\SharedKernel\\Core\\N5.Management.Infrastructure\\N5.Management.Infrastructure.csproj|solutionrelative:src\\sharedkernel\\core\\n5.management.infrastructure\\repository\\implementations\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.application\\commands\\handlers\\updatepermissioncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.application\\commands\\handlers\\updatepermissioncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.application\\commands\\handlers\\createpermissioncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.application\\commands\\handlers\\createpermissioncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA9999A-C995-429F-A078-AEC209BA7E60}|src\\SharedKernel\\Core\\N5.Management.Commons\\N5.Management.Commons.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\sharedkernel\\core\\n5.management.commons\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA9999A-C995-429F-A078-AEC209BA7E60}|src\\SharedKernel\\Core\\N5.Management.Commons\\N5.Management.Commons.csproj|solutionrelative:src\\sharedkernel\\core\\n5.management.commons\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B867D17B-2558-4651-A1D8-47E28BD3DEAB}|src\\SharedKernel\\Infrastructure\\Services\\ElasticsearchService\\N5.Management.SharedKernel.Infrastructure.Elasticsearch\\N5.Management.SharedKernel.Infrastructure.Elasticsearch.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\sharedkernel\\infrastructure\\services\\elasticsearchservice\\n5.management.sharedkernel.infrastructure.elasticsearch\\implementations\\elasticsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B867D17B-2558-4651-A1D8-47E28BD3DEAB}|src\\SharedKernel\\Infrastructure\\Services\\ElasticsearchService\\N5.Management.SharedKernel.Infrastructure.Elasticsearch\\N5.Management.SharedKernel.Infrastructure.Elasticsearch.csproj|solutionrelative:src\\sharedkernel\\infrastructure\\services\\elasticsearchservice\\n5.management.sharedkernel.infrastructure.elasticsearch\\implementations\\elasticsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C99067B-094F-4497-A592-ECB7B492F902}|src\\services\\permissions\\N5.Management.Permissions.Domain\\N5.Management.Permissions.Domain.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.domain\\models\\permissiontypeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C99067B-094F-4497-A592-ECB7B492F902}|src\\services\\permissions\\N5.Management.Permissions.Domain\\N5.Management.Permissions.Domain.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.domain\\models\\permissiontypeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.application\\commands\\definitions\\createpermissioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.application\\commands\\definitions\\createpermissioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD2F09E-1500-4068-867B-5D32A2DA23C0}|src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\N5.Management.Permissions.Infrastructure.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.infrastructure\\repository\\implementations\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD2F09E-1500-4068-867B-5D32A2DA23C0}|src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\N5.Management.Permissions.Infrastructure.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.infrastructure\\repository\\implementations\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3DD2F09E-1500-4068-867B-5D32A2DA23C0}|src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\N5.Management.Permissions.Infrastructure.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.infrastructure\\configurations\\employeesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DD2F09E-1500-4068-867B-5D32A2DA23C0}|src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\N5.Management.Permissions.Infrastructure.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.infrastructure\\configurations\\employeesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD2F09E-1500-4068-867B-5D32A2DA23C0}|src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\N5.Management.Permissions.Infrastructure.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.infrastructure\\configurations\\permissiontypesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD2F09E-1500-4068-867B-5D32A2DA23C0}|src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\N5.Management.Permissions.Infrastructure.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.infrastructure\\configurations\\permissiontypesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.application\\mappings\\permissions\\profiles\\permissionprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.application\\mappings\\permissions\\profiles\\permissionprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22795077-C334-4F51-86D0-513C8E502BD9}|src\\services\\permissions\\N5.Management.Permissions.Api\\N5.Management.Permissions.Api.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{22795077-C334-4F51-86D0-513C8E502BD9}|src\\services\\permissions\\N5.Management.Permissions.Api\\N5.Management.Permissions.Api.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA101F43-3733-4AAB-BE10-1F9333B2291B}|src\\Tests\\N5.Management.IntegrationTests\\N5.Management.IntegrationTests.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\tests\\n5.management.integrationtests\\permissions\\permissionscontrollerintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA101F43-3733-4AAB-BE10-1F9333B2291B}|src\\Tests\\N5.Management.IntegrationTests\\N5.Management.IntegrationTests.csproj|solutionrelative:src\\tests\\n5.management.integrationtests\\permissions\\permissionscontrollerintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA9999A-C995-429F-A078-AEC209BA7E60}|src\\SharedKernel\\Core\\N5.Management.Commons\\N5.Management.Commons.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\sharedkernel\\core\\n5.management.commons\\dtos\\operationmessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA9999A-C995-429F-A078-AEC209BA7E60}|src\\SharedKernel\\Core\\N5.Management.Commons\\N5.Management.Commons.csproj|solutionrelative:src\\sharedkernel\\core\\n5.management.commons\\dtos\\operationmessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B867D17B-2558-4651-A1D8-47E28BD3DEAB}|src\\SharedKernel\\Infrastructure\\Services\\ElasticsearchService\\N5.Management.SharedKernel.Infrastructure.Elasticsearch\\N5.Management.SharedKernel.Infrastructure.Elasticsearch.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\sharedkernel\\infrastructure\\services\\elasticsearchservice\\n5.management.sharedkernel.infrastructure.elasticsearch\\interfaces\\ielasticsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B867D17B-2558-4651-A1D8-47E28BD3DEAB}|src\\SharedKernel\\Infrastructure\\Services\\ElasticsearchService\\N5.Management.SharedKernel.Infrastructure.Elasticsearch\\N5.Management.SharedKernel.Infrastructure.Elasticsearch.csproj|solutionrelative:src\\sharedkernel\\infrastructure\\services\\elasticsearchservice\\n5.management.sharedkernel.infrastructure.elasticsearch\\interfaces\\ielasticsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ECA9999A-C995-429F-A078-AEC209BA7E60}|src\\SharedKernel\\Core\\N5.Management.Commons\\N5.Management.Commons.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\sharedkernel\\core\\n5.management.commons\\exceptions\\technicalexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -135,16 +215,8 @@
       "RelativeMoniker": "D:0:0:{ECA9999A-C995-429F-A078-AEC209BA7E60}|src\\SharedKernel\\Core\\N5.Management.Commons\\N5.Management.Commons.csproj|solutionrelative:src\\sharedkernel\\core\\n5.management.commons\\dtos\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EB6CFDF-58DD-4232-94A9-F7D7C4852122}|src\\SharedKernel\\Core\\N5.Management.Infrastructure\\N5.Management.Infrastructure.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\sharedkernel\\core\\n5.management.infrastructure\\repository\\implementations\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EB6CFDF-58DD-4232-94A9-F7D7C4852122}|src\\SharedKernel\\Core\\N5.Management.Infrastructure\\N5.Management.Infrastructure.csproj|solutionrelative:src\\sharedkernel\\core\\n5.management.infrastructure\\repository\\implementations\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7EB6CFDF-58DD-4232-94A9-F7D7C4852122}|src\\SharedKernel\\Core\\N5.Management.Infrastructure\\N5.Management.Infrastructure.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\sharedkernel\\core\\n5.management.infrastructure\\configurations\\base\\entityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EB6CFDF-58DD-4232-94A9-F7D7C4852122}|src\\SharedKernel\\Core\\N5.Management.Infrastructure\\N5.Management.Infrastructure.csproj|solutionrelative:src\\sharedkernel\\core\\n5.management.infrastructure\\configurations\\base\\entityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.application\\cores\\applicationautofacmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.application\\cores\\applicationautofacmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.Managed.Core.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -152,14 +224,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Infrastructure\\DependencyInjection\\N5.Management.SharedKernel.Infrastructure.DependencyInjection\\SharedKernelAutoFacModule .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\SharedKernel\\Infrastructure\\DependencyInjection\\N5.Management.SharedKernel.Infrastructure.DependencyInjection\\SharedKernelAutoFacModule .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.application\\cores\\addapplicationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.application\\cores\\addapplicationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DD2F09E-1500-4068-867B-5D32A2DA23C0}|src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\N5.Management.Permissions.Infrastructure.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.infrastructure\\repository\\implementations\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DD2F09E-1500-4068-867B-5D32A2DA23C0}|src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\N5.Management.Permissions.Infrastructure.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.infrastructure\\repository\\implementations\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.application\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -176,10 +240,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3DD2F09E-1500-4068-867B-5D32A2DA23C0}|src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\N5.Management.Permissions.Infrastructure.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.infrastructure\\cores\\infrastructureautofacmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DD2F09E-1500-4068-867B-5D32A2DA23C0}|src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\N5.Management.Permissions.Infrastructure.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.infrastructure\\cores\\infrastructureautofacmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.application\\interfaces\\ipermissionapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.application\\interfaces\\ipermissionapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C99067B-094F-4497-A592-ECB7B492F902}|src\\services\\permissions\\N5.Management.Permissions.Domain\\N5.Management.Permissions.Domain.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.domain\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -246,10 +306,6 @@
       "RelativeMoniker": "D:0:0:{3DD2F09E-1500-4068-867B-5D32A2DA23C0}|src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\N5.Management.Permissions.Infrastructure.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.infrastructure\\n5.management.permissions.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|c:\\sources\\n5\\rh\\slnn5api\\src\\services\\permissions\\n5.management.permissions.application\\implementations\\permissionapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3844D63-F119-494E-BA03-F11964CEDFE1}|src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj|solutionrelative:src\\services\\permissions\\n5.management.permissions.application\\implementations\\permissionapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\sources\\n5\\rh\\slnN5Api\\src\\shared\\Commons\\N5.Management.Commons\\Constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\shared\\Commons\\N5.Management.Commons\\Constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -268,6 +324,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\sources\\n5\\rh\\slnN5Api\\src\\shared\\Commons\\N5.Management.Commons\\Exceptions\\ErrorValidationModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\shared\\Commons\\N5.Management.Commons\\Exceptions\\ErrorValidationModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Repository\\Implementations\\EmployeeRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Repository\\Implementations\\EmployeeRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Repository\\Implementations\\PermissionTypeRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Repository\\Implementations\\PermissionTypeRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Repository\\Interfaces\\IEmployeeRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Repository\\Interfaces\\IEmployeeRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -281,168 +349,621 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PermissionProfile.cs",
-              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Mappings\\Permissions\\Profiles\\PermissionProfile.cs",
-              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Application\\Mappings\\Permissions\\Profiles\\PermissionProfile.cs",
-              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Mappings\\Permissions\\Profiles\\PermissionProfile.cs",
-              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Application\\Mappings\\Permissions\\Profiles\\PermissionProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T21:03:32.564Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ResponseMiddleware.cs",
-              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Commons\\Middleware\\ResponseMiddleware.cs",
-              "RelativeDocumentMoniker": "src\\SharedKernel\\Core\\N5.Management.Commons\\Middleware\\ResponseMiddleware.cs",
-              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Commons\\Middleware\\ResponseMiddleware.cs",
-              "RelativeToolTip": "src\\SharedKernel\\Core\\N5.Management.Commons\\Middleware\\ResponseMiddleware.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAcwBUAAAAQAAAA",
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Api\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Api\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Api\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Api\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAADUAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T07:01:41.842Z",
+              "WhenOpened": "2024-08-27T13:26:20.549Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CreatePermissionCommandHandler.cs",
-              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Handlers\\CreatePermissionCommandHandler.cs",
-              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Handlers\\CreatePermissionCommandHandler.cs",
-              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Handlers\\CreatePermissionCommandHandler.cs",
-              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Handlers\\CreatePermissionCommandHandler.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAAACQAAAA5AAAA",
+              "DocumentIndex": 7,
+              "Title": "GetListEmployeeQueryHandler.cs",
+              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Queries\\Handlers\\GetListEmployeeQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Application\\Queries\\Handlers\\GetListEmployeeQueryHandler.cs",
+              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Queries\\Handlers\\GetListEmployeeQueryHandler.cs",
+              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Application\\Queries\\Handlers\\GetListEmployeeQueryHandler.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAAB8AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T00:14:15.83Z",
+              "WhenOpened": "2024-08-28T12:58:43.488Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Constants.cs",
-              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Commons\\Constants.cs",
-              "RelativeDocumentMoniker": "src\\SharedKernel\\Core\\N5.Management.Commons\\Constants.cs",
-              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Commons\\Constants.cs",
-              "RelativeToolTip": "src\\SharedKernel\\Core\\N5.Management.Commons\\Constants.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAcwBYAAABCAAAA",
+              "Title": "PermissionsController.cs",
+              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Api\\Controllers\\PermissionsController.cs",
+              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Api\\Controllers\\PermissionsController.cs",
+              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Api\\Controllers\\PermissionsController.cs",
+              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Api\\Controllers\\PermissionsController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAACsAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T06:05:16.572Z"
+              "WhenOpened": "2024-06-22T23:32:56.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Api\\appsettings.Development.json",
+              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Api\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-27T11:05:38.334Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ElasticsearchService.cs",
-              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Infrastructure\\Services\\ElasticsearchService\\N5.Management.SharedKernel.Infrastructure.Elasticsearch\\Implementations\\ElasticsearchService.cs",
-              "RelativeDocumentMoniker": "src\\SharedKernel\\Infrastructure\\Services\\ElasticsearchService\\N5.Management.SharedKernel.Infrastructure.Elasticsearch\\Implementations\\ElasticsearchService.cs",
-              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Infrastructure\\Services\\ElasticsearchService\\N5.Management.SharedKernel.Infrastructure.Elasticsearch\\Implementations\\ElasticsearchService.cs",
-              "RelativeToolTip": "src\\SharedKernel\\Infrastructure\\Services\\ElasticsearchService\\N5.Management.SharedKernel.Infrastructure.Elasticsearch\\Implementations\\ElasticsearchService.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAArwBwAAAAgAAAA",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Api\\appsettings.json",
+              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Api\\appsettings.json",
+              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T23:25:15.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeleteEmployeeCommand.cs",
+              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Definitions\\DeleteEmployeeCommand.cs",
+              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Definitions\\DeleteEmployeeCommand.cs",
+              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Definitions\\DeleteEmployeeCommand.cs",
+              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Definitions\\DeleteEmployeeCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T22:39:48.102Z",
+              "WhenOpened": "2024-09-05T09:37:00.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeleteEmployeeCommandHandler.cs",
+              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Handlers\\DeleteEmployeeCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Handlers\\DeleteEmployeeCommandHandler.cs",
+              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Handlers\\DeleteEmployeeCommandHandler.cs",
+              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Handlers\\DeleteEmployeeCommandHandler.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T09:38:45.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResponseMiddleware.cs",
+              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Commons\\Middleware\\ResponseMiddleware.cs",
+              "RelativeDocumentMoniker": "src\\SharedKernel\\Core\\N5.Management.Commons\\Middleware\\ResponseMiddleware.cs",
+              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Commons\\Middleware\\ResponseMiddleware.cs",
+              "RelativeToolTip": "src\\SharedKernel\\Core\\N5.Management.Commons\\Middleware\\ResponseMiddleware.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAgwBgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T13:52:32.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Infrastructure\\Repository\\Implementations\\Data\\Base\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "src\\SharedKernel\\Core\\N5.Management.Infrastructure\\Repository\\Implementations\\Data\\Base\\BaseRepository.cs",
+              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Infrastructure\\Repository\\Implementations\\Data\\Base\\BaseRepository.cs",
+              "RelativeToolTip": "src\\SharedKernel\\Core\\N5.Management.Infrastructure\\Repository\\Implementations\\Data\\Base\\BaseRepository.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAAB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T15:34:36.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Repository\\Implementations\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Repository\\Implementations\\EmployeeRepository.cs",
+              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Repository\\Implementations\\EmployeeRepository.cs",
+              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Repository\\Implementations\\EmployeeRepository.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADEAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T13:30:10.696Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Dtos\\Employee\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Application\\Dtos\\Employee\\EmployeeDto.cs",
+              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Dtos\\Employee\\EmployeeDto.cs",
+              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Application\\Dtos\\Employee\\EmployeeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T15:25:46.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateEmployeeCommandHandler.cs",
+              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Handlers\\UpdateEmployeeCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Handlers\\UpdateEmployeeCommandHandler.cs",
+              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Handlers\\UpdateEmployeeCommandHandler.cs",
+              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Handlers\\UpdateEmployeeCommandHandler.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAACYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T21:07:29.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateEmployeeCommandHandler.cs",
+              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Handlers\\CreateEmployeeCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Handlers\\CreateEmployeeCommandHandler.cs",
+              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Handlers\\CreateEmployeeCommandHandler.cs",
+              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Handlers\\CreateEmployeeCommandHandler.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T15:24:38.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PermissionDto.cs",
+              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Dtos\\Permissions\\PermissionDto.cs",
+              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Application\\Dtos\\Permissions\\PermissionDto.cs",
+              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Dtos\\Permissions\\PermissionDto.cs",
+              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Application\\Dtos\\Permissions\\PermissionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T14:39:21.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateEmployeeCommand.cs",
+              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Definitions\\CreateEmployeeCommand.cs",
+              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Definitions\\CreateEmployeeCommand.cs",
+              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Definitions\\CreateEmployeeCommand.cs",
+              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Definitions\\CreateEmployeeCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T15:23:46.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeProfile.cs",
+              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Mappings\\Employee\\Profiles\\EmployeeProfile.cs",
+              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Application\\Mappings\\Employee\\Profiles\\EmployeeProfile.cs",
+              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Mappings\\Employee\\Profiles\\EmployeeProfile.cs",
+              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Application\\Mappings\\Employee\\Profiles\\EmployeeProfile.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T13:32:20.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetListPermissionTypeQueryHandler.cs",
+              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Queries\\Handlers\\GetListPermissionTypeQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Application\\Queries\\Handlers\\GetListPermissionTypeQueryHandler.cs",
+              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Queries\\Handlers\\GetListPermissionTypeQueryHandler.cs",
+              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Application\\Queries\\Handlers\\GetListPermissionTypeQueryHandler.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T02:42:20.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetListPermissionTypeQuery.cs",
+              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Queries\\Definitions\\GetListPermissionTypeQuery.cs",
+              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Application\\Queries\\Definitions\\GetListPermissionTypeQuery.cs",
+              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Queries\\Definitions\\GetListPermissionTypeQuery.cs",
+              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Application\\Queries\\Definitions\\GetListPermissionTypeQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T02:42:41.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IPermissionsRepository.cs",
+              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Repository\\Interfaces\\IPermissionsRepository.cs",
+              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Repository\\Interfaces\\IPermissionsRepository.cs",
+              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Repository\\Interfaces\\IPermissionsRepository.cs",
+              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Repository\\Interfaces\\IPermissionsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T06:24:29.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PermissionTypeController.cs",
+              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Api\\Controllers\\PermissionTypeController.cs",
+              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Api\\Controllers\\PermissionTypeController.cs",
+              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Api\\Controllers\\PermissionTypeController.cs",
+              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Api\\Controllers\\PermissionTypeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T06:48:59.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PermissionTypeDto.cs",
+              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Dtos\\PermissionType\\PermissionTypeDto.cs",
+              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Application\\Dtos\\PermissionType\\PermissionTypeDto.cs",
+              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Dtos\\PermissionType\\PermissionTypeDto.cs",
+              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Application\\Dtos\\PermissionType\\PermissionTypeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T06:47:27.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "PermissionTypeRepository.cs",
+              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Repository\\Implementations\\PermissionTypeRepository.cs",
+              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Repository\\Implementations\\PermissionTypeRepository.cs",
+              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Repository\\Implementations\\PermissionTypeRepository.cs",
+              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Repository\\Implementations\\PermissionTypeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T02:38:40.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetListPermissionQueryHandler.cs",
+              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Queries\\Handlers\\GetListPermissionQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Application\\Queries\\Handlers\\GetListPermissionQueryHandler.cs",
+              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Queries\\Handlers\\GetListPermissionQueryHandler.cs",
+              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Application\\Queries\\Handlers\\GetListPermissionQueryHandler.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAcAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T13:43:34.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PermissionsRepository.cs",
+              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Repository\\Implementations\\PermissionsRepository.cs",
+              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Repository\\Implementations\\PermissionsRepository.cs",
+              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Repository\\Implementations\\PermissionsRepository.cs",
+              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Repository\\Implementations\\PermissionsRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T06:56:54.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GetListEmployeeQuery.cs",
+              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Queries\\Definitions\\GetListEmployeeQuery.cs",
+              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Application\\Queries\\Definitions\\GetListEmployeeQuery.cs",
+              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Queries\\Definitions\\GetListEmployeeQuery.cs",
+              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Application\\Queries\\Definitions\\GetListEmployeeQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T14:26:28.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PermissionsConfiguration.cs",
+              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Configurations\\PermissionsConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Configurations\\PermissionsConfiguration.cs",
+              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Configurations\\PermissionsConfiguration.cs",
+              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Configurations\\PermissionsConfiguration.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA4AAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T06:57:46.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetListPermissionQuery.cs",
+              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Queries\\Definitions\\GetListPermissionQuery.cs",
+              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Application\\Queries\\Definitions\\GetListPermissionQuery.cs",
+              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Queries\\Definitions\\GetListPermissionQuery.cs",
+              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Application\\Queries\\Definitions\\GetListPermissionQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T00:32:59.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetEmployeeQuery.cs",
+              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Queries\\Definitions\\GetEmployeeQuery.cs",
+              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Application\\Queries\\Definitions\\GetEmployeeQuery.cs",
+              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Queries\\Definitions\\GetEmployeeQuery.cs",
+              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Application\\Queries\\Definitions\\GetEmployeeQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T01:00:13.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApplicationAutoFacModule.cs",
+              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Cores\\ApplicationAutoFacModule.cs",
+              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Application\\Cores\\ApplicationAutoFacModule.cs",
+              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Cores\\ApplicationAutoFacModule.cs",
+              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Application\\Cores\\ApplicationAutoFacModule.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T06:14:49.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Api\\Program.cs",
               "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Api\\Program.cs",
               "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Api\\Program.cs",
               "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Api\\Program.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAArwCIAAAA+AAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAAFIAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-23T06:16:41.612Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 29,
+              "Title": "AddApplicationServices.cs",
+              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Cores\\AddApplicationServices.cs",
+              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Application\\Cores\\AddApplicationServices.cs",
+              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Cores\\AddApplicationServices.cs",
+              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Application\\Cores\\AddApplicationServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T21:06:14.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "GetPermissionQueryHandler.cs",
               "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Queries\\Handlers\\GetPermissionQueryHandler.cs",
               "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Application\\Queries\\Handlers\\GetPermissionQueryHandler.cs",
               "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Queries\\Handlers\\GetPermissionQueryHandler.cs",
               "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Application\\Queries\\Handlers\\GetPermissionQueryHandler.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAcwBgAAAAIAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAAYAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-22T22:49:02.633Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PermissionsControllerTests.cs",
-              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\Tests\\N5.Management.UnitTests\\Permissions\\PermissionsControllerTests.cs",
-              "RelativeDocumentMoniker": "src\\Tests\\N5.Management.UnitTests\\Permissions\\PermissionsControllerTests.cs",
-              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\Tests\\N5.Management.UnitTests\\Permissions\\PermissionsControllerTests.cs",
-              "RelativeToolTip": "src\\Tests\\N5.Management.UnitTests\\Permissions\\PermissionsControllerTests.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAAADIAAAA/AAAA",
+              "DocumentIndex": 30,
+              "Title": "GetEmployeeQueryHandler.cs",
+              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Queries\\Handlers\\GetEmployeeQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Application\\Queries\\Handlers\\GetEmployeeQueryHandler.cs",
+              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Queries\\Handlers\\GetEmployeeQueryHandler.cs",
+              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Application\\Queries\\Handlers\\GetEmployeeQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T13:06:19.621Z",
+              "WhenOpened": "2024-08-27T13:08:19.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IPermissionApplication.cs",
+              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Interfaces\\IPermissionApplication.cs",
+              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Application\\Interfaces\\IPermissionApplication.cs",
+              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Interfaces\\IPermissionApplication.cs",
+              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Application\\Interfaces\\IPermissionApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T14:00:38.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EmployeeFilters.cs",
+              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Dtos\\Employee\\EmployeeFilters.cs",
+              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Application\\Dtos\\Employee\\EmployeeFilters.cs",
+              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Dtos\\Employee\\EmployeeFilters.cs",
+              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Application\\Dtos\\Employee\\EmployeeFilters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T15:29:25.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Domain\\Commons\\Entity.cs",
+              "RelativeDocumentMoniker": "src\\SharedKernel\\Core\\N5.Management.Domain\\Commons\\Entity.cs",
+              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Domain\\Commons\\Entity.cs",
+              "RelativeToolTip": "src\\SharedKernel\\Core\\N5.Management.Domain\\Commons\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T20:42:29.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Infrastructure\\Repository\\Implementations\\Data\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "src\\SharedKernel\\Core\\N5.Management.Infrastructure\\Repository\\Implementations\\Data\\UnitOfWork.cs",
+              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Infrastructure\\Repository\\Implementations\\Data\\UnitOfWork.cs",
+              "RelativeToolTip": "src\\SharedKernel\\Core\\N5.Management.Infrastructure\\Repository\\Implementations\\Data\\UnitOfWork.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAQwFYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:02:43.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Repository\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Repository\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Repository\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Repository\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:47:06.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UpdatePermissionCommandHandler.cs",
+              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Handlers\\UpdatePermissionCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Handlers\\UpdatePermissionCommandHandler.cs",
+              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Handlers\\UpdatePermissionCommandHandler.cs",
+              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Handlers\\UpdatePermissionCommandHandler.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T21:29:36.964Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "EmployeeEntity.cs",
-              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Domain\\Models\\EmployeeEntity.cs",
-              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Domain\\Models\\EmployeeEntity.cs",
-              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Domain\\Models\\EmployeeEntity.cs",
-              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Domain\\Models\\EmployeeEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "DocumentIndex": 37,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Commons\\Constants.cs",
+              "RelativeDocumentMoniker": "src\\SharedKernel\\Core\\N5.Management.Commons\\Constants.cs",
+              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Commons\\Constants.cs",
+              "RelativeToolTip": "src\\SharedKernel\\Core\\N5.Management.Commons\\Constants.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAvwBYAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T06:55:30.255Z"
+              "WhenOpened": "2024-06-24T06:05:16.572Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 36,
+              "Title": "CreatePermissionCommandHandler.cs",
+              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Handlers\\CreatePermissionCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Handlers\\CreatePermissionCommandHandler.cs",
+              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Handlers\\CreatePermissionCommandHandler.cs",
+              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Handlers\\CreatePermissionCommandHandler.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T00:14:15.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ElasticsearchService.cs",
+              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Infrastructure\\Services\\ElasticsearchService\\N5.Management.SharedKernel.Infrastructure.Elasticsearch\\Implementations\\ElasticsearchService.cs",
+              "RelativeDocumentMoniker": "src\\SharedKernel\\Infrastructure\\Services\\ElasticsearchService\\N5.Management.SharedKernel.Infrastructure.Elasticsearch\\Implementations\\ElasticsearchService.cs",
+              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Infrastructure\\Services\\ElasticsearchService\\N5.Management.SharedKernel.Infrastructure.Elasticsearch\\Implementations\\ElasticsearchService.cs",
+              "RelativeToolTip": "src\\SharedKernel\\Infrastructure\\Services\\ElasticsearchService\\N5.Management.SharedKernel.Infrastructure.Elasticsearch\\Implementations\\ElasticsearchService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T22:39:48.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
               "Title": "PermissionTypeEntity.cs",
               "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Domain\\Models\\PermissionTypeEntity.cs",
               "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Domain\\Models\\PermissionTypeEntity.cs",
               "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Domain\\Models\\PermissionTypeEntity.cs",
               "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Domain\\Models\\PermissionTypeEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T06:55:44.517Z"
+              "WhenOpened": "2024-08-28T18:09:02.613Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "PermissionEntity.cs",
-              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Domain\\Models\\PermissionEntity.cs",
-              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Domain\\Models\\PermissionEntity.cs",
-              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Domain\\Models\\PermissionEntity.cs",
-              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Domain\\Models\\PermissionEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "DocumentIndex": 40,
+              "Title": "CreatePermissionCommand.cs",
+              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Definitions\\CreatePermissionCommand.cs",
+              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Definitions\\CreatePermissionCommand.cs",
+              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Definitions\\CreatePermissionCommand.cs",
+              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Definitions\\CreatePermissionCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T21:23:36.19Z"
+              "WhenOpened": "2024-06-25T20:57:54.209Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Api\\appsettings.json",
-              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Api\\appsettings.json",
-              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Api\\appsettings.json",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAwAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-24T23:25:15.008Z"
+              "DocumentIndex": 41,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Repository\\Implementations\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Repository\\Implementations\\Data\\DataContext.cs",
+              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Repository\\Implementations\\Data\\DataContext.cs",
+              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Repository\\Implementations\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T20:28:38.775Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Api\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Api\\appsettings.Development.json",
-              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Api\\appsettings.Development.json",
-              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Api\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-27T11:05:38.334Z"
+              "DocumentIndex": 43,
+              "Title": "PermissionTypesConfiguration.cs",
+              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Configurations\\PermissionTypesConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Configurations\\PermissionTypesConfiguration.cs",
+              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Configurations\\PermissionTypesConfiguration.cs",
+              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Configurations\\PermissionTypesConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T06:57:56.322Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 42,
+              "Title": "EmployeesConfiguration.cs",
+              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Configurations\\EmployeesConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Configurations\\EmployeesConfiguration.cs",
+              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Configurations\\EmployeesConfiguration.cs",
+              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Configurations\\EmployeesConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T06:57:30.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "PermissionProfile.cs",
+              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Mappings\\Permissions\\Profiles\\PermissionProfile.cs",
+              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Application\\Mappings\\Permissions\\Profiles\\PermissionProfile.cs",
+              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Mappings\\Permissions\\Profiles\\PermissionProfile.cs",
+              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Application\\Mappings\\Permissions\\Profiles\\PermissionProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T21:03:32.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "ErrorValidationModel.cs",
+              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\shared\\Commons\\N5.Management.Commons\\Exceptions\\ErrorValidationModel.cs",
+              "RelativeDocumentMoniker": "src\\shared\\Commons\\N5.Management.Commons\\Exceptions\\ErrorValidationModel.cs",
+              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\shared\\Commons\\N5.Management.Commons\\Exceptions\\ErrorValidationModel.cs",
+              "RelativeToolTip": "src\\shared\\Commons\\N5.Management.Commons\\Exceptions\\ErrorValidationModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T23:07:02.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Api\\Dockerfile",
+              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Api\\Dockerfile",
+              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Api\\Dockerfile",
+              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Api\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-13T01:15:17.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
               "Title": "PermissionsControllerIntegrationTests.cs",
               "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\Tests\\N5.Management.IntegrationTests\\Permissions\\PermissionsControllerIntegrationTests.cs",
               "RelativeDocumentMoniker": "src\\Tests\\N5.Management.IntegrationTests\\Permissions\\PermissionsControllerIntegrationTests.cs",
@@ -455,45 +976,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "UpdatePermissionCommandHandler.cs",
-              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Handlers\\UpdatePermissionCommandHandler.cs",
-              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Handlers\\UpdatePermissionCommandHandler.cs",
-              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Handlers\\UpdatePermissionCommandHandler.cs",
-              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Handlers\\UpdatePermissionCommandHandler.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAABRwCYAAABwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T21:29:36.964Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "PermissionsController.cs",
-              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Api\\Controllers\\PermissionsController.cs",
-              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Api\\Controllers\\PermissionsController.cs",
-              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Api\\Controllers\\PermissionsController.cs",
-              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Api\\Controllers\\PermissionsController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAABRwBUAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T23:32:56.221Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "PermissionDto.cs",
-              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Dtos\\Permissions\\PermissionDto.cs",
-              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Application\\Dtos\\Permissions\\PermissionDto.cs",
-              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Dtos\\Permissions\\PermissionDto.cs",
-              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Application\\Dtos\\Permissions\\PermissionDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T07:18:28.563Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 47,
               "Title": "OperationMessageDto.cs",
               "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Commons\\Dtos\\OperationMessageDto.cs",
               "RelativeDocumentMoniker": "src\\SharedKernel\\Core\\N5.Management.Commons\\Dtos\\OperationMessageDto.cs",
@@ -505,19 +988,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "CreatePermissionCommand.cs",
-              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Definitions\\CreatePermissionCommand.cs",
-              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Definitions\\CreatePermissionCommand.cs",
-              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Definitions\\CreatePermissionCommand.cs",
-              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Definitions\\CreatePermissionCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T20:57:54.209Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 48,
               "Title": "IElasticsearchService.cs",
               "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Infrastructure\\Services\\ElasticsearchService\\N5.Management.SharedKernel.Infrastructure.Elasticsearch\\Interfaces\\IElasticsearchService.cs",
               "RelativeDocumentMoniker": "src\\SharedKernel\\Infrastructure\\Services\\ElasticsearchService\\N5.Management.SharedKernel.Infrastructure.Elasticsearch\\Interfaces\\IElasticsearchService.cs",
@@ -529,115 +1000,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IPermissionsRepository.cs",
-              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Repository\\Interfaces\\IPermissionsRepository.cs",
-              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Repository\\Interfaces\\IPermissionsRepository.cs",
-              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Repository\\Interfaces\\IPermissionsRepository.cs",
-              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Repository\\Interfaces\\IPermissionsRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T06:57:24.572Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "BaseRepository.cs",
-              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Infrastructure\\Repository\\Implementations\\Data\\Base\\BaseRepository.cs",
-              "RelativeDocumentMoniker": "src\\SharedKernel\\Core\\N5.Management.Infrastructure\\Repository\\Implementations\\Data\\Base\\BaseRepository.cs",
-              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Infrastructure\\Repository\\Implementations\\Data\\Base\\BaseRepository.cs",
-              "RelativeToolTip": "src\\SharedKernel\\Core\\N5.Management.Infrastructure\\Repository\\Implementations\\Data\\Base\\BaseRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T14:25:27.473Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "PermissionsRepository.cs",
-              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Repository\\Implementations\\PermissionsRepository.cs",
-              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Repository\\Implementations\\PermissionsRepository.cs",
-              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Repository\\Implementations\\PermissionsRepository.cs",
-              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Repository\\Implementations\\PermissionsRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T06:56:54.753Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "UpdatePermissionCommand.cs",
-              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Definitions\\UpdatePermissionCommand.cs",
-              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Definitions\\UpdatePermissionCommand.cs",
-              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Definitions\\UpdatePermissionCommand.cs",
-              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Application\\Commands\\Definitions\\UpdatePermissionCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T22:18:26.861Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "GetPermissionQuery.cs",
-              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Queries\\Definitions\\GetPermissionQuery.cs",
-              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Application\\Queries\\Definitions\\GetPermissionQuery.cs",
-              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Queries\\Definitions\\GetPermissionQuery.cs",
-              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Application\\Queries\\Definitions\\GetPermissionQuery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T23:44:54.936Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Entity.cs",
-              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Domain\\Commons\\Entity.cs",
-              "RelativeDocumentMoniker": "src\\SharedKernel\\Core\\N5.Management.Domain\\Commons\\Entity.cs",
-              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Domain\\Commons\\Entity.cs",
-              "RelativeToolTip": "src\\SharedKernel\\Core\\N5.Management.Domain\\Commons\\Entity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABSAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T20:42:29.367Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "PermissionTypesConfiguration.cs",
-              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Configurations\\PermissionTypesConfiguration.cs",
-              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Configurations\\PermissionTypesConfiguration.cs",
-              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Configurations\\PermissionTypesConfiguration.cs",
-              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Configurations\\PermissionTypesConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T06:57:56.322Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "EmployeesConfiguration.cs",
-              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Configurations\\EmployeesConfiguration.cs",
-              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Configurations\\EmployeesConfiguration.cs",
-              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Configurations\\EmployeesConfiguration.cs",
-              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Configurations\\EmployeesConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T06:57:30.469Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "PermissionsConfiguration.cs",
-              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Configurations\\PermissionsConfiguration.cs",
-              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Configurations\\PermissionsConfiguration.cs",
-              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Configurations\\PermissionsConfiguration.cs",
-              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Configurations\\PermissionsConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T06:57:46.556Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 50,
               "Title": "FunctionalException.cs",
               "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Commons\\Exceptions\\FunctionalException.cs",
               "RelativeDocumentMoniker": "src\\SharedKernel\\Core\\N5.Management.Commons\\Exceptions\\FunctionalException.cs",
@@ -649,7 +1012,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 51,
               "Title": "N5Exception.cs",
               "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Commons\\Exceptions\\N5Exception.cs",
               "RelativeDocumentMoniker": "src\\SharedKernel\\Core\\N5.Management.Commons\\Exceptions\\N5Exception.cs",
@@ -661,7 +1024,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 52,
               "Title": "ResponseDTO.cs",
               "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Commons\\Dtos\\ResponseDTO.cs",
               "RelativeDocumentMoniker": "src\\SharedKernel\\Core\\N5.Management.Commons\\Dtos\\ResponseDTO.cs",
@@ -673,7 +1036,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 49,
               "Title": "TechnicalException.cs",
               "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Commons\\Exceptions\\TechnicalException.cs",
               "RelativeDocumentMoniker": "src\\SharedKernel\\Core\\N5.Management.Commons\\Exceptions\\TechnicalException.cs",
@@ -685,19 +1048,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Infrastructure\\Repository\\Implementations\\Data\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "src\\SharedKernel\\Core\\N5.Management.Infrastructure\\Repository\\Implementations\\Data\\UnitOfWork.cs",
-              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Infrastructure\\Repository\\Implementations\\Data\\UnitOfWork.cs",
-              "RelativeToolTip": "src\\SharedKernel\\Core\\N5.Management.Infrastructure\\Repository\\Implementations\\Data\\UnitOfWork.cs",
-              "ViewState": "AQIAAEYAAAAAAAAAAAAIwFYAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T07:02:43.774Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 53,
               "Title": "EntityConfiguration.cs",
               "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Infrastructure\\Configurations\\Base\\EntityConfiguration.cs",
               "RelativeDocumentMoniker": "src\\SharedKernel\\Core\\N5.Management.Infrastructure\\Configurations\\Base\\EntityConfiguration.cs",
@@ -709,31 +1060,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "ApplicationAutoFacModule.cs",
-              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Cores\\ApplicationAutoFacModule.cs",
-              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Application\\Cores\\ApplicationAutoFacModule.cs",
-              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Cores\\ApplicationAutoFacModule.cs",
-              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Application\\Cores\\ApplicationAutoFacModule.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAIBZwBsAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T06:14:49.636Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "AddApplicationServices.cs",
-              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Cores\\AddApplicationServices.cs",
-              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Application\\Cores\\AddApplicationServices.cs",
-              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Cores\\AddApplicationServices.cs",
-              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Application\\Cores\\AddApplicationServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T21:06:14.7Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 54,
               "Title": "Microsoft.Managed.Core.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.Managed.Core.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.Managed.Core.targets",
@@ -745,7 +1072,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 55,
               "Title": "SharedKernelAutoFacModule .cs",
               "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Infrastructure\\DependencyInjection\\N5.Management.SharedKernel.Infrastructure.DependencyInjection\\SharedKernelAutoFacModule .cs",
               "RelativeDocumentMoniker": "src\\SharedKernel\\Infrastructure\\DependencyInjection\\N5.Management.SharedKernel.Infrastructure.DependencyInjection\\SharedKernelAutoFacModule .cs",
@@ -756,19 +1083,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Repository\\Implementations\\Data\\DataContext.cs",
-              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Repository\\Implementations\\Data\\DataContext.cs",
-              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Repository\\Implementations\\Data\\DataContext.cs",
-              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Repository\\Implementations\\Data\\DataContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T20:28:38.775Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 57,
               "Title": "AddInfrastructureServices.cs",
               "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Cores\\AddInfrastructureServices.cs",
               "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Cores\\AddInfrastructureServices.cs",
@@ -780,7 +1095,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 59,
               "Title": "InfrastructureAutoFacModule.cs",
               "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Cores\\InfrastructureAutoFacModule.cs",
               "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\Cores\\InfrastructureAutoFacModule.cs",
@@ -792,7 +1107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 58,
               "Title": "GlobalUsings.cs",
               "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\GlobalUsings.cs",
               "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\GlobalUsings.cs",
@@ -804,7 +1119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 56,
               "Title": "GlobalUsings.cs",
               "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\GlobalUsings.cs",
               "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Application\\GlobalUsings.cs",
@@ -816,19 +1131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "IPermissionApplication.cs",
-              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Interfaces\\IPermissionApplication.cs",
-              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Application\\Interfaces\\IPermissionApplication.cs",
-              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Interfaces\\IPermissionApplication.cs",
-              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Application\\Interfaces\\IPermissionApplication.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T00:17:05.586Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 60,
               "Title": "GlobalUsings.cs",
               "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Domain\\GlobalUsings.cs",
               "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Domain\\GlobalUsings.cs",
@@ -840,7 +1143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 61,
               "Title": "ServiceConfiguration.cs",
               "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Commons\\Configurations\\Base\\ServiceConfiguration.cs",
               "RelativeDocumentMoniker": "src\\SharedKernel\\Core\\N5.Management.Commons\\Configurations\\Base\\ServiceConfiguration.cs",
@@ -852,7 +1155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 63,
               "Title": "CacheConfiguration.cs",
               "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Commons\\Configurations\\CacheConfiguration.cs",
               "RelativeDocumentMoniker": "src\\SharedKernel\\Core\\N5.Management.Commons\\Configurations\\CacheConfiguration.cs",
@@ -864,7 +1167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 64,
               "Title": "DatabaseConfiguration.cs",
               "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Commons\\Configurations\\DatabaseConfiguration.cs",
               "RelativeDocumentMoniker": "src\\SharedKernel\\Core\\N5.Management.Commons\\Configurations\\DatabaseConfiguration.cs",
@@ -876,7 +1179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 65,
               "Title": "JwTokenConfiguration.cs",
               "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Commons\\Configurations\\JwTokenConfiguration.cs",
               "RelativeDocumentMoniker": "src\\SharedKernel\\Core\\N5.Management.Commons\\Configurations\\JwTokenConfiguration.cs",
@@ -888,7 +1191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 66,
               "Title": "N5Configuration.cs",
               "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Commons\\Configurations\\N5Configuration.cs",
               "RelativeDocumentMoniker": "src\\SharedKernel\\Core\\N5.Management.Commons\\Configurations\\N5Configuration.cs",
@@ -900,7 +1203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 62,
               "Title": "AppSettings.cs",
               "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Commons\\Configurations\\AppSettings.cs",
               "RelativeDocumentMoniker": "src\\SharedKernel\\Core\\N5.Management.Commons\\Configurations\\AppSettings.cs",
@@ -912,7 +1215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 67,
               "Title": "ErrorValidationModel.cs",
               "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Commons\\Exceptions\\ErrorValidationModel.cs",
               "RelativeDocumentMoniker": "src\\SharedKernel\\Core\\N5.Management.Commons\\Exceptions\\ErrorValidationModel.cs",
@@ -924,7 +1227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 68,
               "Title": "GlobalUsings.cs",
               "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Commons\\GlobalUsings.cs",
               "RelativeDocumentMoniker": "src\\SharedKernel\\Core\\N5.Management.Commons\\GlobalUsings.cs",
@@ -936,7 +1239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 69,
               "Title": "PaginacionEntity.cs",
               "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Domain\\Commons\\PaginacionEntity.cs",
               "RelativeDocumentMoniker": "src\\SharedKernel\\Core\\N5.Management.Domain\\Commons\\PaginacionEntity.cs",
@@ -948,7 +1251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 70,
               "Title": "IEntityConfiguration.cs",
               "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Infrastructure\\Configurations\\Base\\IEntityConfiguration.cs",
               "RelativeDocumentMoniker": "src\\SharedKernel\\Core\\N5.Management.Infrastructure\\Configurations\\Base\\IEntityConfiguration.cs",
@@ -960,7 +1263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 71,
               "Title": "GlobalUsings.cs",
               "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\SharedKernel\\Core\\N5.Management.Infrastructure\\GlobalUsings.cs",
               "RelativeDocumentMoniker": "src\\SharedKernel\\Core\\N5.Management.Infrastructure\\GlobalUsings.cs",
@@ -972,7 +1275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 72,
               "Title": "N5.Management.Permissions.Domain.csproj",
               "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Domain\\N5.Management.Permissions.Domain.csproj",
               "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Domain\\N5.Management.Permissions.Domain.csproj",
@@ -984,7 +1287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 74,
               "Title": "N5.Management.Permissions.Api.csproj",
               "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Api\\N5.Management.Permissions.Api.csproj",
               "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Api\\N5.Management.Permissions.Api.csproj",
@@ -996,7 +1299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 73,
               "Title": "N5.Management.Permissions.Application.csproj",
               "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj",
               "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Application\\N5.Management.Permissions.Application.csproj",
@@ -1008,7 +1311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 75,
               "Title": "N5.Management.Permissions.Infrastructure.csproj",
               "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\N5.Management.Permissions.Infrastructure.csproj",
               "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Infrastructure\\N5.Management.Permissions.Infrastructure.csproj",
@@ -1020,7 +1323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 76,
               "Title": "Constants.cs",
               "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\shared\\Commons\\N5.Management.Commons\\Constants.cs",
               "RelativeDocumentMoniker": "src\\shared\\Commons\\N5.Management.Commons\\Constants.cs",
@@ -1031,7 +1334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 77,
               "Title": "N5Exception.cs",
               "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\shared\\Commons\\N5.Management.Commons\\Exceptions\\N5Exception.cs",
               "RelativeDocumentMoniker": "src\\shared\\Commons\\N5.Management.Commons\\Exceptions\\N5Exception.cs",
@@ -1042,7 +1345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 78,
               "Title": "TechnicalException.cs",
               "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\shared\\Commons\\N5.Management.Commons\\Exceptions\\TechnicalException.cs",
               "RelativeDocumentMoniker": "src\\shared\\Commons\\N5.Management.Commons\\Exceptions\\TechnicalException.cs",
@@ -1053,7 +1356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 79,
               "Title": "FunctionalException.cs",
               "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\shared\\Commons\\N5.Management.Commons\\Exceptions\\FunctionalException.cs",
               "RelativeDocumentMoniker": "src\\shared\\Commons\\N5.Management.Commons\\Exceptions\\FunctionalException.cs",
@@ -1061,29 +1364,6 @@
               "RelativeToolTip": "src\\shared\\Commons\\N5.Management.Commons\\Exceptions\\FunctionalException.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-22T23:04:46.678Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 66,
-              "Title": "ErrorValidationModel.cs",
-              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\shared\\Commons\\N5.Management.Commons\\Exceptions\\ErrorValidationModel.cs",
-              "RelativeDocumentMoniker": "src\\shared\\Commons\\N5.Management.Commons\\Exceptions\\ErrorValidationModel.cs",
-              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\shared\\Commons\\N5.Management.Commons\\Exceptions\\ErrorValidationModel.cs",
-              "RelativeToolTip": "src\\shared\\Commons\\N5.Management.Commons\\Exceptions\\ErrorValidationModel.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T23:07:02.24Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 61,
-              "Title": "PermissionApplication.cs",
-              "DocumentMoniker": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Implementations\\PermissionApplication.cs",
-              "RelativeDocumentMoniker": "src\\services\\permissions\\N5.Management.Permissions.Application\\Implementations\\PermissionApplication.cs",
-              "ToolTip": "C:\\sources\\n5\\rh\\slnN5Api\\src\\services\\permissions\\N5.Management.Permissions.Application\\Implementations\\PermissionApplication.cs",
-              "RelativeToolTip": "src\\services\\permissions\\N5.Management.Permissions.Application\\Implementations\\PermissionApplication.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T00:16:36.983Z"
             }
           ]
         }

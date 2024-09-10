@@ -1,6 +1,9 @@
-﻿namespace N5.Management.Permissions.Application.Commands.Definitions
+﻿using N5.Management.Permissions.Application.Dtos.Employee;
+
+namespace N5.Management.Permissions.Application.Commands.Definitions
 {
-    public class CreatePermissionCommand: IRequest<PermissionDto>
+
+    public class CreatePermissionCommand : IRequest<PermissionDto>
     {
         public int EmployeeId { get; set; }
         public int PermissionTypeId { get; set; }

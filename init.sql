@@ -93,8 +93,8 @@ GO
 CREATE TABLE [Admin].[Employees](
 	[Id] [int] IDENTITY(1,1) NOT NULL,
 	[Name] [nvarchar](50) NOT NULL,
+	[LastName] [nvarchar](50) NOT NULL,
 	[Email] [nvarchar](100) NOT NULL,
-	[Department] [nvarchar](50) NOT NULL,
 	[Status] [char](1) NULL,
 	[CreatedBy] [varchar](100) NULL,
 	[CreatedAt] [datetime] NULL,
@@ -151,38 +151,20 @@ PRIMARY KEY CLUSTERED
 GO
 SET IDENTITY_INSERT [Admin].[Employees] ON 
 
-INSERT [Admin].[Employees] ([Id], [Name], [Email], [Department], [Status], [CreatedBy], [CreatedAt], [UpdatedBy], [UpdatedAt]) VALUES (2, N'Rogelio', N'rollerfernandez@gmail.com', N'INFORMATICA', N'A', N'HR', CAST(N'2024-05-10T00:00:00.000' AS DateTime), NULL, NULL)
-INSERT [Admin].[Employees] ([Id], [Name], [Email], [Department], [Status], [CreatedBy], [CreatedAt], [UpdatedBy], [UpdatedAt]) VALUES (3, N'Juan', N'juan@gmail.com', N'SECRETARIA', N'A', N'HR', CAST(N'2024-05-10T00:00:00.000' AS DateTime), NULL, NULL)
-INSERT [Admin].[Employees] ([Id], [Name], [Email], [Department], [Status], [CreatedBy], [CreatedAt], [UpdatedBy], [UpdatedAt]) VALUES (4, N'Julio', N'julio@gmail.com', N'INFORMATICA 2', N'A', N'HR', CAST(N'2024-05-10T00:00:00.000' AS DateTime), NULL, NULL)
+INSERT [Admin].[Employees] ([Id], [Name], [Email], [LastName], [Status], [CreatedBy], [CreatedAt], [UpdatedBy], [UpdatedAt]) VALUES (2, N'Rogelio', N'rollerfernandez@gmail.com', N'Fernandez', N'A', N'HR', CAST(N'2024-05-10T00:00:00.000' AS DateTime), NULL, NULL)
 SET IDENTITY_INSERT [Admin].[Employees] OFF
 GO
 SET IDENTITY_INSERT [Admin].[Permissions] ON 
 
 INSERT [Admin].[Permissions] ([Id], [EmployeeId], [PermissionTypeId], [StartDate], [EndDate], [Reason], [Status], [CreatedBy], [CreatedAt], [UpdatedBy], [UpdatedAt]) VALUES (3, 2, 1, CAST(N'2024-06-25' AS Date), CAST(N'2024-06-25' AS Date), N'modificacion 3', N'A', N'HR', CAST(N'2024-05-10T00:00:00.000' AS DateTime), NULL, NULL)
-INSERT [Admin].[Permissions] ([Id], [EmployeeId], [PermissionTypeId], [StartDate], [EndDate], [Reason], [Status], [CreatedBy], [CreatedAt], [UpdatedBy], [UpdatedAt]) VALUES (4, 2, 1, CAST(N'2024-06-25' AS Date), CAST(N'2024-06-25' AS Date), N'jr. millert 334', N'A', N'CreationUser', CAST(N'2024-06-25T16:22:31.040' AS DateTime), NULL, NULL)
-INSERT [Admin].[Permissions] ([Id], [EmployeeId], [PermissionTypeId], [StartDate], [EndDate], [Reason], [Status], [CreatedBy], [CreatedAt], [UpdatedBy], [UpdatedAt]) VALUES (5, 2, 1, CAST(N'2024-06-25' AS Date), CAST(N'2024-06-25' AS Date), N'Jr. Millet ', N'A', N'CreationUser', CAST(N'2024-06-25T16:24:57.040' AS DateTime), NULL, NULL)
-INSERT [Admin].[Permissions] ([Id], [EmployeeId], [PermissionTypeId], [StartDate], [EndDate], [Reason], [Status], [CreatedBy], [CreatedAt], [UpdatedBy], [UpdatedAt]) VALUES (6, 3, 1, CAST(N'2024-06-25' AS Date), CAST(N'2024-06-25' AS Date), N'SIN DIRECCION', N'A', N'CreationUser', CAST(N'2024-06-25T18:01:47.470' AS DateTime), NULL, NULL)
-INSERT [Admin].[Permissions] ([Id], [EmployeeId], [PermissionTypeId], [StartDate], [EndDate], [Reason], [Status], [CreatedBy], [CreatedAt], [UpdatedBy], [UpdatedAt]) VALUES (7, 3, 1, CAST(N'2024-06-25' AS Date), CAST(N'2024-06-25' AS Date), N'SIN DIRECIONES 43', N'A', N'CreationUser', CAST(N'2024-06-25T18:12:04.623' AS DateTime), NULL, NULL)
-INSERT [Admin].[Permissions] ([Id], [EmployeeId], [PermissionTypeId], [StartDate], [EndDate], [Reason], [Status], [CreatedBy], [CreatedAt], [UpdatedBy], [UpdatedAt]) VALUES (8, 3, 1, CAST(N'2024-06-25' AS Date), CAST(N'2024-06-25' AS Date), N'sin direc', N'A', N'CreationUser', CAST(N'2024-06-25T18:15:45.277' AS DateTime), NULL, NULL)
-INSERT [Admin].[Permissions] ([Id], [EmployeeId], [PermissionTypeId], [StartDate], [EndDate], [Reason], [Status], [CreatedBy], [CreatedAt], [UpdatedBy], [UpdatedAt]) VALUES (9, 2, 1, CAST(N'2024-06-25' AS Date), CAST(N'2024-06-25' AS Date), N'container', N'A', N'CreationUser', CAST(N'2024-06-25T18:36:24.453' AS DateTime), NULL, NULL)
-INSERT [Admin].[Permissions] ([Id], [EmployeeId], [PermissionTypeId], [StartDate], [EndDate], [Reason], [Status], [CreatedBy], [CreatedAt], [UpdatedBy], [UpdatedAt]) VALUES (10, 3, 1, CAST(N'2024-06-25' AS Date), CAST(N'2024-06-25' AS Date), N'container', N'A', N'CreationUser', CAST(N'2024-06-25T19:15:09.167' AS DateTime), NULL, NULL)
-INSERT [Admin].[Permissions] ([Id], [EmployeeId], [PermissionTypeId], [StartDate], [EndDate], [Reason], [Status], [CreatedBy], [CreatedAt], [UpdatedBy], [UpdatedAt]) VALUES (11, 4, 1, CAST(N'2024-06-26' AS Date), CAST(N'2024-06-26' AS Date), N'string', N'A', N'CreationUser', CAST(N'2024-06-25T19:57:18.117' AS DateTime), NULL, NULL)
-INSERT [Admin].[Permissions] ([Id], [EmployeeId], [PermissionTypeId], [StartDate], [EndDate], [Reason], [Status], [CreatedBy], [CreatedAt], [UpdatedBy], [UpdatedAt]) VALUES (13, 3, 1, CAST(N'2024-06-26' AS Date), CAST(N'2024-06-26' AS Date), N'string', N'A', N'CreationUser', CAST(N'2024-06-25T20:11:11.213' AS DateTime), NULL, NULL)
-INSERT [Admin].[Permissions] ([Id], [EmployeeId], [PermissionTypeId], [StartDate], [EndDate], [Reason], [Status], [CreatedBy], [CreatedAt], [UpdatedBy], [UpdatedAt]) VALUES (14, 3, 1, CAST(N'2024-06-26' AS Date), CAST(N'2024-06-26' AS Date), N'string', N'A', N'CreationUser', CAST(N'2024-06-25T20:14:52.747' AS DateTime), NULL, NULL)
-INSERT [Admin].[Permissions] ([Id], [EmployeeId], [PermissionTypeId], [StartDate], [EndDate], [Reason], [Status], [CreatedBy], [CreatedAt], [UpdatedBy], [UpdatedAt]) VALUES (15, 4, 1, CAST(N'2024-06-26' AS Date), CAST(N'2024-06-26' AS Date), N'string', N'A', N'CreationUser', CAST(N'2024-06-25T20:19:05.160' AS DateTime), NULL, NULL)
-INSERT [Admin].[Permissions] ([Id], [EmployeeId], [PermissionTypeId], [StartDate], [EndDate], [Reason], [Status], [CreatedBy], [CreatedAt], [UpdatedBy], [UpdatedAt]) VALUES (16, 3, 1, CAST(N'2024-06-26' AS Date), CAST(N'2024-06-26' AS Date), N'string', N'A', N'CreationUser', CAST(N'2024-06-25T20:22:49.503' AS DateTime), NULL, NULL)
-INSERT [Admin].[Permissions] ([Id], [EmployeeId], [PermissionTypeId], [StartDate], [EndDate], [Reason], [Status], [CreatedBy], [CreatedAt], [UpdatedBy], [UpdatedAt]) VALUES (17, 2, 1, CAST(N'2024-06-26' AS Date), CAST(N'2024-06-26' AS Date), N'string', N'A', N'CreationUser', CAST(N'2024-06-25T20:24:40.883' AS DateTime), NULL, NULL)
-INSERT [Admin].[Permissions] ([Id], [EmployeeId], [PermissionTypeId], [StartDate], [EndDate], [Reason], [Status], [CreatedBy], [CreatedAt], [UpdatedBy], [UpdatedAt]) VALUES (18, 3, 1, CAST(N'2024-06-26' AS Date), CAST(N'2024-06-26' AS Date), N'string', N'A', N'CreationUser', CAST(N'2024-06-25T20:27:13.887' AS DateTime), NULL, NULL)
-INSERT [Admin].[Permissions] ([Id], [EmployeeId], [PermissionTypeId], [StartDate], [EndDate], [Reason], [Status], [CreatedBy], [CreatedAt], [UpdatedBy], [UpdatedAt]) VALUES (19, 3, 1, CAST(N'2024-06-26' AS Date), CAST(N'2024-06-26' AS Date), N'string', N'A', N'CreationUser', CAST(N'2024-06-25T20:30:14.320' AS DateTime), NULL, NULL)
-INSERT [Admin].[Permissions] ([Id], [EmployeeId], [PermissionTypeId], [StartDate], [EndDate], [Reason], [Status], [CreatedBy], [CreatedAt], [UpdatedBy], [UpdatedAt]) VALUES (20, 2, 1, CAST(N'2024-06-26' AS Date), CAST(N'2024-06-26' AS Date), N'string', N'A', N'CreationUser', CAST(N'2024-06-25T20:32:13.670' AS DateTime), NULL, NULL)
-INSERT [Admin].[Permissions] ([Id], [EmployeeId], [PermissionTypeId], [StartDate], [EndDate], [Reason], [Status], [CreatedBy], [CreatedAt], [UpdatedBy], [UpdatedAt]) VALUES (23, 3, 1, CAST(N'2024-06-26' AS Date), CAST(N'2024-06-26' AS Date), N'string', N'A', N'CreationUser', CAST(N'2024-06-26T07:20:14.100' AS DateTime), NULL, NULL)
-INSERT [Admin].[Permissions] ([Id], [EmployeeId], [PermissionTypeId], [StartDate], [EndDate], [Reason], [Status], [CreatedBy], [CreatedAt], [UpdatedBy], [UpdatedAt]) VALUES (24, 3, 1, CAST(N'2024-06-26' AS Date), CAST(N'2024-06-26' AS Date), N'hola', N'A', N'CreationUser', CAST(N'2024-06-26T07:23:43.787' AS DateTime), NULL, NULL)
-INSERT [Admin].[Permissions] ([Id], [EmployeeId], [PermissionTypeId], [StartDate], [EndDate], [Reason], [Status], [CreatedBy], [CreatedAt], [UpdatedBy], [UpdatedAt]) VALUES (25, 2, 1, CAST(N'2024-06-26' AS Date), CAST(N'2024-06-26' AS Date), N'string', N'A', N'CreationUser', CAST(N'2024-06-26T07:41:05.437' AS DateTime), NULL, NULL)
+INSERT [Admin].[Permissions] ([Id], [EmployeeId], [PermissionTypeId], [StartDate], [EndDate], [Reason], [Status], [CreatedBy], [CreatedAt], [UpdatedBy], [UpdatedAt]) VALUES (4, 2, 2, CAST(N'2024-08-25' AS Date), CAST(N'2024-08-25' AS Date), N'modificacion 3', N'A', N'HR', CAST(N'2024-05-10T00:00:00.000' AS DateTime), NULL, NULL)
+
 SET IDENTITY_INSERT [Admin].[Permissions] OFF
 GO
 SET IDENTITY_INSERT [Admin].[PermissionTypes] ON 
 
-INSERT [Admin].[PermissionTypes] ([Id], [Name], [Description], [Status], [CreatedBy], [CreatedAt], [UpdatedBy], [UpdatedAt]) VALUES (1, N'SUPERVISOR', N'SUPERVISOR', N'A', N'HR', CAST(N'2024-05-10T00:00:00.000' AS DateTime), NULL, NULL)
+INSERT [Admin].[PermissionTypes] ([Id], [Name], [Description], [Status], [CreatedBy], [CreatedAt], [UpdatedBy], [UpdatedAt]) VALUES (1, N'ADMINISTRADOR DE SISTEMA', N'ADMINISTRADOR DE SISTEMA', N'A', N'HR', CAST(N'2024-05-10T00:00:00.000' AS DateTime), NULL, NULL)
+INSERT [Admin].[PermissionTypes] ([Id], [Name], [Description], [Status], [CreatedBy], [CreatedAt], [UpdatedBy], [UpdatedAt]) VALUES (2, N'ADMINISTRADOR DE MODULO', N'ADMINISTRADOR DE MODULO', N'A', N'HR', CAST(N'2024-05-10T00:00:00.000' AS DateTime), NULL, NULL)
 SET IDENTITY_INSERT [Admin].[PermissionTypes] OFF
 GO
 ALTER TABLE [Admin].[Permissions]  WITH CHECK ADD FOREIGN KEY([EmployeeId])

@@ -2,7 +2,8 @@
 {
     public interface IPermissionsRepository : IBaseRepository<PermissionEntity>
     {
-        Task<PermissionEntity> GetByCode(string code);
+        Task<PermissionEntity> GetByCode(int code);
+        //Task<List<PermissionEntity>> GetAll();
         //Task<PermissionEntity> GetById(int id);
     }
 }

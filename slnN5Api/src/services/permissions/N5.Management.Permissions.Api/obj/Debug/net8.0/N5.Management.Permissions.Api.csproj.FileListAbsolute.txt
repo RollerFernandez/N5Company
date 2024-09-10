@@ -135,3 +135,4 @@ C:\sources\n5\rh\slnN5Api\src\services\permissions\N5.Management.Permissions.Api
 C:\sources\n5\rh\slnN5Api\src\services\permissions\N5.Management.Permissions.Api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
 C:\sources\n5\rh\slnN5Api\src\services\permissions\N5.Management.Permissions.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\sources\n5\rh\slnN5Api\src\services\permissions\N5.Management.Permissions.Api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\sources\n5\rh\slnN5Api\src\services\permissions\N5.Management.Permissions.Api\obj\Debug\net8.0\N5.Management.Permissions.Api.sourcelink.json

@@ -10,9 +10,9 @@
             _ = entityBuilder.Property(e => e.Id).HasColumnName("Id").IsRequired();
             _ = entityBuilder.Property(e => e.PermissionTypeId).HasColumnName("PermissionTypeId").IsRequired();
             _ = entityBuilder.Property(e => e.EmployeeId).HasColumnName("EmployeeId").IsRequired();
-            _ = entityBuilder.Property(e => e.StartDate).HasColumnName("StartDate").IsRequired();
+            _ = entityBuilder.Property(e => e.StartDate).HasColumnName("StartDate");
             _ = entityBuilder.Property(e => e.EndDate).HasColumnName("EndDate");
-            _ = entityBuilder.Property(e => e.Reason).HasColumnName("Reason").IsRequired();
+            _ = entityBuilder.Property(e => e.Reason).HasColumnName("Reason");
             //_ = entityBuilder.Property(e => e.Status).HasColumnName("ch_status").IsRequired();
             _ = entityBuilder.HasOne(p => p.Employee)
                              .WithMany(e => e.Permissions)

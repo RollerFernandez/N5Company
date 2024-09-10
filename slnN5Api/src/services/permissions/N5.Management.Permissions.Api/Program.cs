@@ -51,6 +51,19 @@ if (string.IsNullOrEmpty(kafkaBootstrapServers))
 builder.Services.AddSingleton<KafkaProducerService>(sp =>
     new KafkaProducerService(kafkaBootstrapServers, Constants.Core.Topic.PERMISSIONS));
 
+var MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy(MyAllowSpecificOrigins,
+                          policy =>
+                          {
+                              _ = policy
+                              .WithOrigins(builder.Configuration["Cors:Origins"]!.ToString())
+                              .AllowAnyHeader()
+                              .AllowAnyMethod();
+                          });
+});
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -67,6 +80,6 @@ app.UseAuthorization();
 app.UseMiddleware<ResponseMiddleware>();
 
 app.MapControllers();
-
+app.UseCors(MyAllowSpecificOrigins);
 app.Run();
 public partial class Program { }

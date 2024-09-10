@@ -15,3 +15,4 @@ C:\sources\n5\rh\slnN5Api\src\SharedKernel\Core\N5.Management.Infrastructure\obj
 C:\sources\n5\rh\slnN5Api\src\SharedKernel\Core\N5.Management.Infrastructure\obj\Debug\net8.0\refint\N5.Management.Infrastructure.dll
 C:\sources\n5\rh\slnN5Api\src\SharedKernel\Core\N5.Management.Infrastructure\obj\Debug\net8.0\N5.Management.Infrastructure.pdb
 C:\sources\n5\rh\slnN5Api\src\SharedKernel\Core\N5.Management.Infrastructure\obj\Debug\net8.0\ref\N5.Management.Infrastructure.dll
+C:\sources\n5\rh\slnN5Api\src\SharedKernel\Core\N5.Management.Infrastructure\obj\Debug\net8.0\N5.Management.Infrastructure.sourcelink.json
